@@ -1,7 +1,7 @@
 {
     "skincare":[
         {
-            "img-src": "Elementos/Productos/alex-lvrs-dKMueUuH5CQ-unsplash.jpg",
+            "imgSrc": "Elementos/Productos/alex-lvrs-dKMueUuH5CQ-unsplash.jpg",
             "nombre": "Hemp Seed Oil",
             "precio": "$60",
             "alt":"Aceite de cáñamo"
