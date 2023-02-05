@@ -1,1 +1,10 @@
-{}
+{
+    "skincare":[
+        {
+            "img-src": "Elementos/Productos/alex-lvrs-dKMueUuH5CQ-unsplash.jpg",
+            "nombre": "Hemp Seed Oil",
+            "precio": "$60",
+            "categoria": 1
+        }
+    ]
+}
