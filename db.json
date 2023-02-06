@@ -42,5 +42,17 @@
             "alt":"Serum Luminoso y Reafirmante",
             "descripcion":"Vivid C Pro-Collagen Serum trabaja con su piel para que esté visiblemente más luminosa y tersa.  El suero contiene un 10% de ácido L-ascórbico etilado. Esta forma eficaz, estable y no irritante de vitamina C unifica la textura de la piel y ayuda a combatir el fotoenvejecimiento y la hiperpigmentación."
         }
+    ],
+    "bebidas":[ 
+        {
+            "imgSrc": "Elementos/Productos/hempSeedOil.jpg",
+            "nombre": "Bebidas1",
+            "precio": "$750",
+            "alt":"Aceite de cáñamo",
+            "descripcion":"Aceite esencial elaborado con ingredientes orgánicos. MODO DE EMPLEO: Sublingual, 2 gotas con los alimentos 2,000 mg de concentración No todos los extractos se elaboran con el mismo nivel de pureza. Nuestro extracto es fabricado con ingredientes totalmente naturales y de alta calidad, ya que se seleccionan las mejores variedades para obtener uno de los mejores extractos en el mercado, cumpliendo así con los altos estándares de nuestros clientes. Nuestro Aceite Premium ha capturado los sabores profundos, ricos y texturizados de la naturaleza en este frasco de aceite con sabor único. Este aceite tiene muchos usos. ¡Experimente los beneficios por usted mismo! Nuestro aceite de aspecto dorado se elabora mediante un proceso de filtración y nos especializamos en utilizar materiales 100% naturales, libres de solventes químicos y pesticidas, teniendo como prioridad la satisfacción y beneficio de nuestros clientes."
+        }
     ]
+
+      
+
 }
