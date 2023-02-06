@@ -1,10 +1,46 @@
 {
     "skincare":[
         {
-            "imgSrc": "Elementos/Productos/alex-lvrs-dKMueUuH5CQ-unsplash.jpg",
+            "imgSrc": "Elementos/Productos/hempSeedOil",
             "nombre": "Hemp Seed Oil",
-            "precio": "$60",
-            "alt":"Aceite de cáñamo"
+            "precio": "$750",
+            "alt":"Aceite de cáñamo",
+            "descripcion":"Aceite esencial elaborado con ingredientes orgánicos. MODO DE EMPLEO: Sublingual, 2 gotas con los alimentos 2,000 mg de concentración No todos los extractos se elaboran con el mismo nivel de pureza. Nuestro extracto es fabricado con ingredientes totalmente naturales y de alta calidad, ya que se seleccionan las mejores variedades para obtener uno de los mejores extractos en el mercado, cumpliendo así con los altos estándares de nuestros clientes. Nuestro Aceite Premium ha capturado los sabores profundos, ricos y texturizados de la naturaleza en este frasco de aceite con sabor único. Este aceite tiene muchos usos. ¡Experimente los beneficios por usted mismo! Nuestro aceite de aspecto dorado se elabora mediante un proceso de filtración y nos especializamos en utilizar materiales 100% naturales, libres de solventes químicos y pesticidas, teniendo como prioridad la satisfacción y beneficio de nuestros clientes."
+        },
+        {
+            "imgSrc": "Elementos/Productos/soap1",
+            "nombre":"Jabon de Romero", 
+            "precio":"$200",
+            "alt": "Jabon de romero",
+            "descripcion":"Hecho a mano con ingredientes 100% naturales, libre de quimicos, colorantes y perfume. Para el rostro, cuerpo y cabello. No obstruye los poros. Ideal para el baño diario de bebes y niños. Hecho con aceites esenciales que son de gran beneficio para la piel y que estimulan los sentidos"
+        },
+        {
+            "imgSrc": "Elementos/Productos/soap2",
+            "nombre":"Jabon de Manzanilla",
+            "precio":"$150", 
+            "alt":"Jabon de manzanilla",
+            "descripcion":"Hecho a mano con ingredientes 100% naturales, libre de quimicos, colorantes y perfume. Para el rostro, cuerpo y cabello. No obstruye los poros. Ideal para el baño diario de bebes y niños. Hecho con aceites esenciales que son de gran beneficio para la piel y que estimulan los sentidos"
+        },
+        {
+            "imgSrc": "Elementos/Productos/crema1",
+            "nombre":"Magic Touch Body Cream",
+            "precio":"$500", 
+            "alt":"Crema corporal de arroz y cereza",
+            "descripcion":"Rituals Sakura Mini Magic Touch Body Cream 70 ml con una tecnologia especial que consigue que esta crema resulte muy fácil de aplicar, nutre y reafirma la piel en profundidad. La fórmula también contiene antioxidantes, vitamina E y Centella Asiática, para lograr una piel supersuave y disfrutar del aroma renovador de la flor del cerezo y la leche de arroz orgánica."
+        },
+        {
+            "imgSrc": "Elementos/Productos/crema2",
+            "nombre":"Crema Reafirmante",
+            "precio":"$250", 
+            "alt":"Crema reafirmante de ojos",
+            "descripcion":"Siente cómo la piel del contorno de ojos florece con esta suave y refrescante crema. Creada con la poderosa tecnología Ultimate Lift y con nutrientes rejuvenecedores para que la delicada piel del contorno de ojos luzca firme, fuerte y libre de líneas y arrugas. La hinchazón y las ojeras se reducen significativamente."
+        },
+        {
+            "imgSrc": "Elementos/Productos/serum",
+            "nombre":"Serum Luminoso y Reafirmante ",
+            "precio":"$450", 
+            "alt":"Serum Luminoso y Reafirmante",
+            "descripcion":"Vivid C Pro-Collagen Serum trabaja con su piel para que esté visiblemente más luminosa y tersa.  El suero contiene un 10% de ácido L-ascórbico etilado. Esta forma eficaz, estable y no irritante de vitamina C unifica la textura de la piel y ayuda a combatir el fotoenvejecimiento y la hiperpigmentación."
         }
     ]
 }
