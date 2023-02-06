@@ -45,11 +45,46 @@
     ],
     "bebidas":[ 
         {
-            "imgSrc": "Elementos/Productos/hempSeedOil.jpg",
-            "nombre": "Bebidas1",
-            "precio": "$750",
-            "alt":"Aceite de cáñamo",
-            "descripcion":"Aceite esencial elaborado con ingredientes orgánicos. "
+            "imgSrc": "Elementos/Productos/bebidas1.jpg",
+            "nombre": "Olipop",
+            "precio": "$20",
+            "alt":"Olipop",
+            "descripcion":"OLIPOP es muchas cosas (una tónica con gas, un sustituto de la soda, una bebida Instagrammable), pero al final del día es simple y llanamente: somos una soda buena para ti que también sabe bien. Nuestras tónicas con gas favorecen la salud digestiva y están disponibles en seis deliciosos sabores. Cada lata de 12 onzas contiene 9 g de fibra dietética, 2-5 g de azúcar y 45 calorías o menos. OLIPOP combina prebióticos, fibra y extractos botánicos de ocho ingredientes vegetales diferentes para mejorar tu salud intestinal y tus antojos, todo en uno. "
+        },
+        {
+            "imgSrc": "Elementos/Productos/bebidas2.jpg",
+            "nombre": "Vitality Shot",
+            "precio": "$40",
+            "alt":"VitalityShot",
+            "descripcion":" "
+        },
+        {
+            "imgSrc": "Elementos/Productos/bebidas3.jpg",
+            "nombre": "Simply Red",
+            "precio": "$35",
+            "alt":"Simply Red",
+            "descripcion":""
+        },
+        {
+            "imgSrc": "Elementos/Productos/bebidas4.jpg",
+            "nombre": "Ginger Beer",
+            "precio": "$45",
+            "alt":"Ginger Beer",
+            "descripcion":" "
+        },
+        {
+            "imgSrc": "Elementos/Productos/bebidas5.jpg",
+            "nombre": "Tenzo Matcha",
+            "precio": "$50",
+            "alt":"Tenzo Matcha",
+            "descripcion":" "
+        },
+        {
+            "imgSrc": "Elementos/Productos/bebidas6.jpg",
+            "nombre": "Dandy",
+            "precio": "$35",
+            "alt":"Dandy",
+            "descripcion":" "
         }
     ],
     "velas":[ 
