@@ -130,8 +130,21 @@
             "alt":"Aceite de cáñamo",
             "descripcion":"Aceite esencial elaborado con ingredientes orgánicos. "
         }
-    ]
+    ],
+    "users":[
+        {
+            "email":"user1@email.com",
+            "pw":"user#pw1"
+        },
+        {
+            "email":"user2@email.com",
+            "pw":"user#pw2"
+        }
 
+    ]
+    
+
+    
 
       
 
